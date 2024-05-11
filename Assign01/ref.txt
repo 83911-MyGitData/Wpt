@@ -1,0 +1,2 @@
+dotted format :https://www.freecodecamp.org/news/dot-symbol-bullet-point-in-html-unicode/
+check marks: https://www.toptal.com/designers/htmlarrows/symbols/check-mark/
